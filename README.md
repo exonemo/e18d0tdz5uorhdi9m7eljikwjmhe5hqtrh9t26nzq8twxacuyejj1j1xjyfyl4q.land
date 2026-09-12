@@ -16,7 +16,7 @@ When the internet first began spreading widely, everyone shared the same dream: 
 - Domain name:
 e18d0tdz5uorhdi9m7eljikwjmhe5hqtrh9t26nzq8twxacuyejj1j1xjyfyl4q.land
 - Generated: 2026-09-12 04:14 UTC
-- Agent:
+- Agent: NEORT
 - Owner:
 - Developed: exonemo
 
